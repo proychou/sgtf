@@ -204,7 +204,7 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2021-12-20,WA,Thurston,10,9
 2021-12-20,WA,Yakima,3,1
 2021-12-21,WA,,1,1
-2021-12-21,WA,King,240,223
+2021-12-21,WA,King,241,224
 2021-12-21,WA,Snohomish,3,3
 2021-12-22,WA,Benton-Franklin,1,1
 2021-12-22,WA,King,32,30
@@ -216,7 +216,7 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2021-12-23,WA,Thurston,8,8
 2021-12-23,WA,Yakima,4,2
 2021-12-24,WA,Benton-Franklin,31,13
-2021-12-24,WA,King,335,297
+2021-12-24,WA,King,333,297
 2021-12-24,WA,Thurston,6,4
 2021-12-24,WA,Walla Walla,5,4
 2021-12-24,WA,Yakima,8,7
@@ -234,7 +234,7 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2021-12-30,WA,Pierce,3,3
 2021-12-30,WA,Yakima,6,5
 2021-12-31,WA,Benton-Franklin,37,34
-2021-12-31,WA,King,283,244
+2021-12-31,WA,King,282,244
 2021-12-31,WA,Pierce,18,15
 2021-12-31,WA,Thurston,6,5
 2021-12-31,WA,Yakima,35,29
@@ -242,8 +242,28 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2022-01-02,WA,Benton-Franklin,141,113
 2022-01-02,WA,King,140,115
 2022-01-02,WA,Yakima,32,25
-2022-01-03,WA,King,9,4
+2022-01-03,WA,King,20,15
 2022-01-03,WA,Walla Walla,1,1
-2022-01-04,WA,King,61,57
+2022-01-04,WA,Benton-Franklin,1,1
+2022-01-04,WA,King,285,273
 2022-01-04,WA,Snohomish,22,21
-NA,NA,NA,115,0
+2022-01-04,WA,Thurston,3,3
+2022-01-04,WA,Yakima,23,21
+2022-01-05,WA,King,149,147
+2022-01-05,WA,Snohomish,4,4
+2022-01-06,WA,King,79,77
+2022-01-06,WA,Snohomish,1,1
+2022-01-07,WA,Benton-Franklin,34,34
+2022-01-07,WA,King,138,138
+2022-01-07,WA,Snohomish,12,12
+2022-01-07,WA,Thurston,4,4
+2022-01-07,WA,Yakima,20,20
+2022-01-08,WA,Benton-Franklin,11,11
+2022-01-08,WA,King,224,214
+2022-01-08,WA,Yakima,28,28
+2022-01-09,WA,Benton-Franklin,22,21
+2022-01-09,WA,King,13,13
+2022-01-09,WA,Yakima,16,16
+2022-01-10,WA,King,103,101
+2022-01-10,WA,Snohomish,6,6
+NA,NA,NA,108,0
