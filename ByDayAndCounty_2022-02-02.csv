@@ -175,7 +175,7 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2021-12-14,WA,Walla Walla,2,0
 2021-12-14,WA,Yakima,15,0
 2021-12-15,WA,Benton-Franklin,7,0
-2021-12-15,WA,King,236,156
+2021-12-15,WA,King,239,159
 2021-12-15,WA,Snohomish,11,3
 2021-12-15,WA,Yakima,10,6
 2021-12-16,WA,Benton-Franklin,8,0
@@ -210,7 +210,7 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2021-12-22,WA,King,32,30
 2021-12-22,WA,Yakima,6,4
 2021-12-23,WA,Benton-Franklin,4,4
-2021-12-23,WA,King,254,225
+2021-12-23,WA,King,255,226
 2021-12-23,WA,Pierce,1,1
 2021-12-23,WA,Snohomish,18,18
 2021-12-23,WA,Thurston,8,8
@@ -238,6 +238,7 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2021-12-31,WA,Pierce,18,15
 2021-12-31,WA,Thurston,6,5
 2021-12-31,WA,Yakima,35,29
+2022-01-01,OR,Deschutes,3,3
 2022-01-01,WA,King,65,52
 2022-01-02,WA,Benton-Franklin,141,113
 2022-01-02,WA,King,140,115
@@ -245,7 +246,7 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2022-01-03,WA,King,20,15
 2022-01-03,WA,Walla Walla,1,1
 2022-01-04,WA,Benton-Franklin,1,1
-2022-01-04,WA,King,285,273
+2022-01-04,WA,King,283,273
 2022-01-04,WA,Snohomish,22,21
 2022-01-04,WA,Thurston,3,3
 2022-01-04,WA,Yakima,23,21
@@ -259,11 +260,55 @@ collect_date,client_state,client_county,n_all,n_sgtf
 2022-01-07,WA,Thurston,4,4
 2022-01-07,WA,Yakima,20,20
 2022-01-08,WA,Benton-Franklin,11,11
-2022-01-08,WA,King,224,214
+2022-01-08,WA,King,223,214
 2022-01-08,WA,Yakima,28,28
 2022-01-09,WA,Benton-Franklin,22,21
 2022-01-09,WA,King,13,13
 2022-01-09,WA,Yakima,16,16
-2022-01-10,WA,King,103,101
+2022-01-10,WA,King,102,101
 2022-01-10,WA,Snohomish,6,6
-NA,NA,NA,108,0
+2022-01-11,OR,Deschutes,2,2
+2022-01-12,OR,Deschutes,8,6
+2022-01-13,OR,Deschutes,2,2
+2022-01-14,OR,Deschutes,6,3
+2022-01-15,OR,Deschutes,24,18
+2022-01-16,OR,Deschutes,14,11
+2022-01-17,OR,Deschutes,22,18
+2022-01-18,OR,Deschutes,28,23
+2022-01-18,WA,Benton-Franklin,7,7
+2022-01-18,WA,King,1,1
+2022-01-18,WA,Walla Walla,4,3
+2022-01-18,WA,Yakima,16,16
+2022-01-19,OR,Deschutes,17,16
+2022-01-19,WA,King,1,1
+2022-01-20,OR,Deschutes,16,14
+2022-01-20,WA,King,116,113
+2022-01-21,OR,Deschutes,40,32
+2022-01-21,WA,King,145,136
+2022-01-21,WA,Thurston,4,4
+2022-01-22,OR,Deschutes,6,5
+2022-01-22,WA,King,132,126
+2022-01-23,WA,Benton-Franklin,87,86
+2022-01-23,WA,King,35,30
+2022-01-23,WA,Yakima,15,14
+2022-01-24,WA,Benton-Franklin,50,49
+2022-01-24,WA,King,45,43
+2022-01-25,WA,Benton-Franklin,29,29
+2022-01-25,WA,King,176,157
+2022-01-25,WA,Snohomish,1,1
+2022-01-25,WA,Thurston,3,3
+2022-01-25,WA,Yakima,45,42
+2022-01-26,WA,King,27,26
+2022-01-26,WA,Walla Walla,28,26
+2022-01-26,WA,Yakima,43,40
+2022-01-27,WA,Benton-Franklin,39,38
+2022-01-27,WA,King,42,39
+2022-01-27,WA,Walla Walla,41,39
+2022-01-27,WA,Yakima,53,53
+2022-01-28,WA,Benton-Franklin,53,51
+2022-01-28,WA,King,18,17
+2022-01-28,WA,Yakima,9,9
+2022-01-29,WA,Benton-Franklin,28,28
+2022-01-29,WA,King,18,18
+2022-01-29,WA,Yakima,3,3
+NA,NA,NA,109,0
